@@ -1,2 +1,2 @@
 # secret-message-APP
-CODING ALONG WITH COLT STEELE
+coding along with Colt Steele
